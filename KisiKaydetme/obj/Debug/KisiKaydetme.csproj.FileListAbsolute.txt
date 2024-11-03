@@ -1,0 +1,10 @@
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\bin\Debug\KisiKaydetme.exe.config
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\bin\Debug\KisiKaydetme.exe
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\bin\Debug\KisiKaydetme.pdb
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.csproj.AssemblyReference.cache
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.KayitIslemi.resources
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.Properties.Resources.resources
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.csproj.GenerateResource.cache
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.exe
+C:\Users\KAPAR\source\repos\KisiKaydetme\KisiKaydetme\obj\Debug\KisiKaydetme.pdb
